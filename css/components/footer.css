@@ -1,0 +1,14 @@
+﻿footer {
+  width: 100%;
+  padding: 1.75rem 1.5rem;
+  margin-top: 3rem;
+  background: linear-gradient(180deg, #372551 0%, #1c1130 100%);
+  color: #e8deff;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
